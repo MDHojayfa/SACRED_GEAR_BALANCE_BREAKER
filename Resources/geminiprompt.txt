@@ -1,4 +1,8 @@
-Don't make any code till i say "EXIF MAKE CODE" whatever i say.  Its my 3rd time startting a new conv for 1 task. Now just tell me if u have any questions, cannu fo everything nicely? Here we go:
+Here is prompt, chat, features etc as u with. Yr main work is to make the full thing at once if u can. If u can't make the full agent then make it as a cli tool as we discussed in here.
+START 
+"""
+
+make any code till i say "EXIF MAKE CODE" whatever i say.  Its my 3rd time startting a new conv for 1 task. Now just tell me if u have any questions, cannu fo everything nicely? Here we go:
 
 Cannu access my other chat with u? That ai bug bounty automation chat? We were making a tool but ur chat limit reached so i had to make another chat. If can then see the full chat and response.  If not then lets start again.
 
@@ -7842,3 +7846,8 @@ Make everything as much strong as u can. Do very really deep research and add as
 Now its the main of all prompt. *** see all the prompt. I am gonna create the full boot*.py again. NO CODE YET. Just plan everything see everything. Take everything to ur memory. Ask if u have any q. I will order u to write code***
 
 Now its the main of all prompt. *** see all the prompt. I am gonna create the full boot*.py again. NO CODE YET. Just plan everything see everything. Take everything to ur memory. Ask if u have any q. I will orser u to write code***
+
+
+
+"""
+END
