@@ -1,4 +1,5 @@
-Here is prompt, chat, features etc as u with. Yr main work is to make the full thing at once if u can. If u can't make the full agent then make it as a cli tool as we discussed in here.
+Here is prompt, chat, features etc as u with. Yr main work is to make the full thing at once if u can. NO PARTS. AND NO NEED FOR SINGLE BOOT*.py. If u can't make the full agent then make it as a cli tool as we discussed in here.
+
 START 
 """
 
