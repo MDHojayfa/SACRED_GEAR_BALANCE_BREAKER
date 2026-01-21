@@ -1,1 +1,33 @@
 Build it. Test it. Debug it. And give me the final result
+
+Cannu include everything in a zip file? Juat ans no need to include till we done everything.  I will tell u to include everything on a zip file. And btw did u cked the auto updater that will upgrade its db and power by reading public reports? And don't forget we must need to think and work like a godly black hat hacker. Cz yk only evil guys will attack sys. 
+
+And also lets add a exploit feature too, like after it hunt and found critical exploitable bug and write on report, it will ask me do i wanna exploit them or not, if y then it will try to exploit it, like getting a reverse shell. Then i will conferm that it is really critical. And if it can't exploit fully it will decrease the bug's rating. And yk what to do.
+
+And also i found another tool like this but its gui and mine will be cli, The tool featured in the video is called PenLegend. It is an AI-powered security research tool designed to find vulnerabilities like XSS and SQL injection automatically [00:31].
+​According to the video, you can find the link to the tool in the description box or the pinned comment of the video [06:11]. At the time of the video, it was available for Kali Linux and Mac (ARM64), with a Windows version planned for the future [06:21].
+​Video URL: https://youtu.be/ZioVV-LgAyc
+Also here r more for ur research and upgrade mine. I done many hard work so u also need to be very hard Working fir this project...
+For u:
+https://github.com/NVIDIA/garak.git
+https://github.com/yz9yt/BugTrace-AI.git
+Buglify.ai
+ZeroThreat.ai
+🔗 https://www.sitescanai.app/ �
+SiteScan AI
+
+https://codeforgeek.com/online-ai-bug-finder-security-vulnerability-scanner/
+
+
+
+Maybe u can learn from that and upgrade mine more.
+ Don't forget to test then give me the full corrected code.
+
+
+1. How much space and ram it will use? Did u optimized it?
+2. Can it auto upgrade its task everytime after reading publicly availabpe reports?
+3. If needed like need to use tools like burp or etc it can use those on usr's sys. If only cli then use a method for this kinda thing.
+4. Can it freely hunt bugs with no restrictions?
+5. Did u included exploit feature?
+6. Report making?
+7. Find more feature, go deep dive and add more features to take this to next level. Spend ur full energy to find and include those things now. Plan more. Find more. Work more. Just 1 task. Find. Then i will command u to include.
